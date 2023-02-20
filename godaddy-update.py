@@ -2,6 +2,7 @@
 
 from godaddypy import Client, Account
 
+# https://pypi.org/project/GoDaddyPy/
 # https://developer.godaddy.com/getstarted
 # https://github.com/eXamadeus/godaddypy
 # https://developer.godaddy.com/keys#
